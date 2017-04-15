@@ -1,4 +1,4 @@
-/vendor
+/vendor/
 /node_modules
 /storage/*.index
 /public/storage
@@ -10,8 +10,9 @@ Homestead.json
 phpunit.xml
 
 .env
-.idea
+.idea/
 .project
 .DS_Store
 npm-debug.log
 *.cache
+amp-easel.iml
